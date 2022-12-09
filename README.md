@@ -12,5 +12,6 @@ pip install tensorflow
 
 The dataset used for the project was downloaded from kaggle, the link to the webpage is : https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format
 
+The link to the video and the presentation is : https://drive.google.com/drive/folders/16bZXaEGHhJWkSD_1IYqzIbGU0I8-cndz?usp=share_link
 
 
